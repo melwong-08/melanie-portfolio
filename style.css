@@ -1,20 +1,47 @@
 body {
     text-align: left;
-    background-color: #F3F3D4;
+    background-color: #E8F2F1;
     font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+main{
+  padding: 60px 20px;
+  margin: 0;
 }
 h1, h2, h3 {
     text-align: center;
-    font-family: sans-serif;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+main h2, main h3 {
+  color:#2E5081;
 }
 nav {
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+header, footer {
+    background-color:#2E5081;
+    color: white;
+    margin: 0;
+}
 header div{
-    background-color:#2E5081
-    color: #F3F3D4;
+    margin: 0;
+    font-size:30px;
+    padding: 10px 10px;
 }
-p{
-    font-size: 11px;
+p, ul, ol {
+    font-size: 14px;
 }
+footer {
+  text-align: center;
+  font-size: 8px;
+  padding: 20px 0px 10px 0px;
+}
+header nav a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+a: link{color: blue;}
+a: visited{color: purple;}
+a: hover{color: white;}
+a: active{color: black;}
