@@ -1,5 +1,9 @@
 body {
-    text-align: center;
-    background-color: #88E391;
+    text-align: left;
+    background-color: #F3F3D4;
     font-family:Arial, Helvetica, sans-serif;
+}
+h1, h2, h3 {
+    text-align: center;
+    font-family: sans-serif;
 }
