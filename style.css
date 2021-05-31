@@ -30,6 +30,13 @@ header div{
     font-size:30px;
     padding: 10px 10px;
 }
+img{
+  display: block;
+  width:75%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
 p, ul, ol {
     font-size: 14px;
 }
@@ -42,4 +49,3 @@ header nav a {
   color: #FFFFFF;
   text-decoration: none;
 }
-
