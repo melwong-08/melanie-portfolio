@@ -24,11 +24,6 @@ nav {
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-/*navigation links: white, no underline*/
-header nav a {
-    color: #FFFFFF;
-    text-decoration: none;
-  }
 /*header and footer: background and text color, margin*/
 header, footer {
     background-color:#2E5081;
@@ -69,3 +64,10 @@ a:visited {color: #770D8F;}
 a:hover {color: #FFFFFF;}
 /*selected link*/
 a:active {color: #1EDCCD;}
+
+/*navigation links: white, no underline*/
+header nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+header nav a:link {color:#FFFFFF}
