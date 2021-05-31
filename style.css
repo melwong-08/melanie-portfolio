@@ -1,35 +1,48 @@
+/*whole page style: color, text, margins*/
 body {
     text-align: left;
     background-color: #E8F2F1;
     font-family:Arial, Helvetica, sans-serif;
     margin: 0;
 }
+/*main page: padding, margin*/
 main{
   padding: 60px 200px;
   margin: 0;
 }
+/*headings: alignment, font style*/
 h1, h2, h3 {
     text-align: center;
     font-family: Comic Sans MS, Comic Sans, cursive;
 }
+/*change heading color*/
 main h2, main h3 {
   color:#2E5081;
 }
+/*navigation bar alignment, text style*/
 nav {
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+/*navigation links: white, no underline*/
+header nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+/*header and footer: background and text color, margin*/
 header, footer {
     background-color:#2E5081;
     color: white;
     margin: 0;
 }
+/*header: size, font, padding, margin*/
 header div{
     height: 300px;
     margin: 0;
     font-size:30px;
     padding: 10px 10px;
 }
+/*image style: circular, responsive, max-width*/
 img{
   display: block;
   width:75%;
@@ -38,15 +51,14 @@ img{
   margin-right: auto;
   border-radius: 50%;
 }
+/*small text: font-size*/
 p, ul, ol {
     font-size: 14px;
 }
+/*footer: text alignment and size, padding*/
 footer {
   text-align: center;
   font-size: 8px;
   padding: 20px 0px 10px 0px;
 }
-header nav a {
-  color: #FFFFFF;
-  text-decoration: none;
-}
+
