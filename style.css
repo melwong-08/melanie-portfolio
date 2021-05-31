@@ -25,6 +25,7 @@ header, footer {
     margin: 0;
 }
 header div{
+    height: 300px;
     margin: 0;
     font-size:30px;
     padding: 10px 10px;
