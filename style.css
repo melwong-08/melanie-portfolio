@@ -61,11 +61,11 @@ footer {
   font-size: 8px;
   padding: 20px 0px 10px 0px;
 }
-/* unvisited link */
+/*unvisited link*/
 a:link {color: #0000FF;}
-/* visited link */
+/*visited link*/
 a:visited {color: #770D8F;}
-/* mouse over link */
+/*mouse over link*/
 a:hover {color: #FFFFFF;}
-/* selected link */
+/*selected link*/
 a:active {color: #1EDCCD;}
