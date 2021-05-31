@@ -70,4 +70,5 @@ header nav a {
     color: #FFFFFF;
     text-decoration: none;
   }
-header nav a:link {color:#FFFFFF}
+header nav a:link {color:#FFFFFF;}
+header nav a:visited {color: #FFFFFF;}
