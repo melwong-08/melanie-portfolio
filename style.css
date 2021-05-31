@@ -65,10 +65,12 @@ a:hover {color: #FFFFFF;}
 /*selected link*/
 a:active {color: #1EDCCD;}
 
-/*navigation links: white, no underline*/
+/*navigation links*/
 header nav a {
     color: #FFFFFF;
     text-decoration: none;
   }
 header nav a:link {color:#FFFFFF;}
 header nav a:visited {color: #FFFFFF;}
+header nav a:hover {color:#770D8F;}
+header nav a:active{color:#1EDCCD;}
