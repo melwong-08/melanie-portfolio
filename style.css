@@ -11,7 +11,7 @@ nav {
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-header {
+header div{
     background-color:#2E5081
     color: #F3F3D4;
 }
